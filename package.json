@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "groc": "~0.4.0"
+    "groc": "git://github.com/excellenteasy/groc.git#dc61719"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
